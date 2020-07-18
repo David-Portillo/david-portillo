@@ -1,5 +1,5 @@
 <div>
-  <img src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/personal-logo-4.svg" alt="banner" width="100%" height="200px">
+  <img src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/personal-logo-4.svg" alt="banner" width="100%" />
 
 </div>
 
