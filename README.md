@@ -1,7 +1,12 @@
 <div>
   <img src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/personal-logo-4.svg" alt="banner" />
-
 </div>
+
+### Connect with me:
+
+[<img align="left" alt="David Portillo | LinkedIn" width="22px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/linkedin-icon.svg" />][linkedin]
+
+<br />
 
 ### Hi there 👋
 
