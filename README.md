@@ -20,7 +20,7 @@
 <br />
 
 
-[linkedin]: https://www.linkedin.com/in/david-portillo-bb000532/
+<!-- [linkedin]: https://www.linkedin.com/in/david-portillo-bb000532/ -->
 
 <!--
 **HammerHand92/hammerhand92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
