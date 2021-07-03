@@ -10,17 +10,12 @@
 
 ### Connect with me:
 
-<div>
-  <a target="_blank" href="https://www.linkedin.com/in/david-portillo-bb000532/">
-    <img align="left" alt="David Portillo | LinkedIn" width="22px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/linkedin-icon.svg" />
-  </a>
-</div>
-  
+[<img align="left" alt="David Portillo | LinkedIn" width="22px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/linkedin-icon.svg" />][linkedin]
 
 <br />
 
 
-<!-- [linkedin]: https://www.linkedin.com/in/david-portillo-bb000532/ -->
+[linkedin]: https://www.linkedin.com/in/david-portillo-bb000532/
 
 <!--
 **HammerHand92/hammerhand92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
