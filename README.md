@@ -3,17 +3,56 @@
 </div>
 
 ### Hi there 👋
+ 
+I'm David and I'm a full stack developer welcome to my profile.
 
-## I'm David and I'm a full stack software developer
 
-- 🌱 I’m currently learning everything I can get my hands on 🤣
+Currently, I'm learning everything I can get my hands on 🤣 I try to lead a balanced life between work and play.
 
-### Connect with me:
+## Fav Quote
+
+Success is not final; failure is not fatal. It is the courage to continue that counts
+- Winston Churchill
+
+
+## Fun Facts
+
+## Tech Stack
+
+- JavaScript
+- Java
+- SQL
+- GraphQL
+- MongoDB
+
+## Frameworks
+
+- Next.js
+- Nest.js
+- SpringBoot
+
+## Libraries
+
+- React.js
+
+
+- React applications with Next.js
+- Node services with Nest.js
+- Java 8 with SpringBoot
+- Azure SQL
+- GraphQL
+- MongoDB
+
+
+
+
+
+
+### Connect with me
 
 [<img align="left" alt="David Portillo | LinkedIn" width="22px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/linkedin-icon.svg" />][linkedin]
 
 <br />
-
 
 [linkedin]: https://www.linkedin.com/in/david-portillo-bb000532/
 
