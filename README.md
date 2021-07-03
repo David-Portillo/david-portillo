@@ -2,13 +2,21 @@
   <img src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/personal-logo-4.svg" alt="banner" />
 </div>
 
+### Hi there 👋
+
+## I'm David and I'm a full stack software developer
+
+- 🌱 I’m currently learning everything I can get my hands on 🤣
+
 ### Connect with me:
 
-[<img align="left" alt="David Portillo | LinkedIn" width="22px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/linkedin-icon.svg" />][linkedin]
+[
+  <a target="_blank">
+    <img align="left" alt="David Portillo | LinkedIn" width="22px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/linkedin-icon.svg" />
+  </a>
+  ][linkedin]
 
 <br />
-
-### Hi there 👋
 
 
 [linkedin]: https://www.linkedin.com/in/david-portillo-bb000532/
