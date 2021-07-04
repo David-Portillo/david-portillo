@@ -1,10 +1,6 @@
-<div>
-  <img src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/personal-logo-4.svg" alt="banner" />
-</div>
-
 ### Hi there 👋
  
-I'm David and I'm a full stack developer welcome to my profile.
+I'm David and I'm a full stack developer, welcome to my profile.
 
 
 Currently, I'm learning everything I can get my hands on 🤣 I try to lead a balanced life between work and play.
