@@ -1,37 +1,30 @@
 ### Hi there 👋
  
-I'm David and I'm a full stack developer, welcome to my profile.
+I'm David and I'm a full stack developer based in Whitby, ON, Canada.
 
 
-Currently, I'm learning everything I can get my hands on 🤣 I try to lead a balanced life between work and play.
+- 🌱 Currently, I'm learning everything I can get my hands on 🤣
+- I speak English and Spanish
+
+I try to lead a balanced life between work and play.
 
 ## Fav Quote
 
-Success is not final; failure is not fatal. It is the courage to continue that counts
+Success is not final; failure is not fatal. It is the courage to continue that counts.
+
 - Winston Churchill
 
-
-## Fun Facts
-
-## Tech Stack
+## Development Tool Belt
 
 - JavaScript
 - Java
 - SQL
 - GraphQL
 - MongoDB
-
-## Frameworks
-
+- React.js
 - Next.js
 - Nest.js
 - SpringBoot
-
-## Libraries
-
-- React.js
-
-
 - React applications with Next.js
 - Node services with Nest.js
 - Java 8 with SpringBoot
@@ -41,8 +34,9 @@ Success is not final; failure is not fatal. It is the courage to continue that c
 
 
 
+## Working With Me
 
-
+## Fun Facts
 
 ### Connect with me
 
