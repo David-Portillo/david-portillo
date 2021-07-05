@@ -29,10 +29,11 @@ I'm David and I'm a full stack developer based in Whitby, ON, Canada.
 
 ### Working With Me
 
-### I Usually Read Articles From
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/medium.svg" />][medium]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/devto.svg" />][devto]
+<p align='left'>
+<h4>I Usually Read Articles From...</h4>
+  <a href="https://dev.to"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+</p>
 
 
 ### Connect with me
@@ -54,5 +55,3 @@ I'm David and I'm a full stack developer based in Whitby, ON, Canada.
 [spring]: https://spring.io/projects/spring-boot
 [microsoft-azure]: https://azure.microsoft.com/en-ca/
 [mongodb]: https://www.mongodb.com/
-[medium]: https://medium.com/
-[devto]: https://dev.to/
