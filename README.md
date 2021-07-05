@@ -1,23 +1,21 @@
 <div>
   <img src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/calvin-and-hobbes.svg" alt="banner" />
 </div>
-### Hi there 👋
+
+## Hi there 👋
  
 I'm David and I'm a full stack developer based in Whitby, ON, Canada.
 
 
 - 🌱 Currently, I'm learning everything I can get my hands on 🤣
-- I speak English and Spanish
+- I'm 💯 bilingual, English and Spanish
+- I enjoy watching 📺, listening to 🎵 and reading 📕
 
-I try to lead a balanced life between work and play.
+## My Development Toolbox 🧰
 
-## Fav Quote
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/vs-code.svg" />][VSCode]
 
-Success is not final; failure is not fatal. It is the courage to continue that counts.
 
-- Winston Churchill
-
-## Development Tool Belt
 
 - JavaScript
 - Java
@@ -48,18 +46,4 @@ Success is not final; failure is not fatal. It is the courage to continue that c
 <br />
 
 [linkedin]: https://www.linkedin.com/in/david-portillo-bb000532/
-
-<!--
-**HammerHand92/hammerhand92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[VSCode]: https://code.visualstudio.com/
