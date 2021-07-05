@@ -15,6 +15,8 @@ I'm David and I'm a full stack developer based in Whitby, ON, Canada.
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/vs-code.svg" />][VSCode]
 
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/javascript.svg" />][JavaScript]
+
 
 
 - JavaScript
@@ -47,3 +49,4 @@ I'm David and I'm a full stack developer based in Whitby, ON, Canada.
 
 [linkedin]: https://www.linkedin.com/in/david-portillo-bb000532/
 [VSCode]: https://code.visualstudio.com/
+[VSCode]: https://www.javascript.com/
