@@ -24,6 +24,8 @@ I'm David and I'm a full stack developer based in Whitby, ON, Canada.
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/vs-code.svg" />][vscode]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/intellij.svg" />][intellij]
 
+<br />
+
 ### Working With Me
 
 ### Connect with me
