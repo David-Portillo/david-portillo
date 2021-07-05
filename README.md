@@ -8,7 +8,7 @@ I'm David and I'm a full stack developer based in Whitby, ON, Canada.
 
 - 🌱 Currently, I'm learning everything I can get my hands on 🤣
 - I'm 💯 bilingual, English and Spanish
-- I enjoy watching 📺, listening to 🎵 and reading 📕
+- I enjoy watching 📺, listening to 🎵, reading 📕 and driving 🚗
 
 ## My Development Toolbox 🧰
 
@@ -29,6 +29,12 @@ I'm David and I'm a full stack developer based in Whitby, ON, Canada.
 
 ### Working With Me
 
+### I Usually Read Articles From
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/medium.svg" />][medium]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/devto.svg" />][devto]
+
+
 ### Connect with me
 
 [<img align="left" alt="David Portillo | LinkedIn" width="22px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/linkedin-icon.svg" />][linkedin]
@@ -48,3 +54,5 @@ I'm David and I'm a full stack developer based in Whitby, ON, Canada.
 [spring]: https://spring.io/projects/spring-boot
 [microsoft-azure]: https://azure.microsoft.com/en-ca/
 [mongodb]: https://www.mongodb.com/
+[medium]: https://medium.com/
+[devto]: https://dev.to/
