@@ -19,15 +19,10 @@ I'm David and I'm a full stack developer based in Whitby, ON, Canada.
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/graphql.svg" />][graphql]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/java.svg" />][java]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/spring.svg" />][spring]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/microsoft-azure.svg" />][microsoft-azure]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/git.svg" />][git]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/vs-code.svg" />][vscode]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/intellij.svg" />][intellij]
-
-- SQL
-- MongoDB
-- React applications with Next.js
-- Java 8 with SpringBoot
-- Azure SQL
 
 ### Working With Me
 
@@ -48,3 +43,4 @@ I'm David and I'm a full stack developer based in Whitby, ON, Canada.
 [java]: https://www.java.com/en/
 [git]: https://git-scm.com/
 [spring]: https://spring.io/projects/spring-boot
+[microsoft-azure]: https://azure.microsoft.com/en-ca/
