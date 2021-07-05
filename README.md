@@ -17,6 +17,7 @@ I'm David and I'm a full stack developer based in Whitby, ON, Canada.
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/react.svg" />][react]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/nodejs.svg" />][nodejs]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/graphql.svg" />][graphql]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/mongodb.svg" />][mongodb]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/java.svg" />][java]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/spring.svg" />][spring]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/microsoft-azure.svg" />][microsoft-azure]
@@ -46,3 +47,4 @@ I'm David and I'm a full stack developer based in Whitby, ON, Canada.
 [git]: https://git-scm.com/
 [spring]: https://spring.io/projects/spring-boot
 [microsoft-azure]: https://azure.microsoft.com/en-ca/
+[mongodb]: https://www.mongodb.com/
