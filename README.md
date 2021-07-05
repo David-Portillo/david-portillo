@@ -15,6 +15,7 @@ I'm David and I'm a full stack developer based in Whitby, ON, Canada.
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/javascript.svg" />][javascript]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/typescript.svg" />][typescript]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/react.svg" />][react]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/nodejs.svg" />][nodejs]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/graphql.svg" />][graphql]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/java.svg" />][java]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/spring.svg" />][spring]
@@ -22,9 +23,7 @@ I'm David and I'm a full stack developer based in Whitby, ON, Canada.
 
 - SQL
 - MongoDB
-- SpringBoot
 - React applications with Next.js
-- Node services with Nest.js
 - Java 8 with SpringBoot
 - Azure SQL
 
@@ -43,6 +42,7 @@ I'm David and I'm a full stack developer based in Whitby, ON, Canada.
 [javascript]: https://www.javascript.com/
 [typescript]: https://www.typescriptlang.org/
 [react]: https://reactjs.org/
+[nodejs]: https://nodejs.org/en/
 [graphql]: https://graphql.org/
 [java]: https://www.java.com/en/
 [spring]: https://spring.io/projects/spring-boot
