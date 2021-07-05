@@ -49,4 +49,4 @@ I'm David and I'm a full stack developer based in Whitby, ON, Canada.
 
 [linkedin]: https://www.linkedin.com/in/david-portillo-bb000532/
 [VSCode]: https://code.visualstudio.com/
-[VSCode]: https://www.javascript.com/
+[JavaScript]: https://www.javascript.com/
