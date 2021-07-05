@@ -35,16 +35,16 @@ I'm David and I'm a full stack developer based in Whitby, ON, Canada.
 
 ### Working With Me
 
-
-
-
 ### Connect with me
 
-[<img align="left" alt="David Portillo | LinkedIn" width="22px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/linkedin-icon.svg" />][linkedin]
+<p align='center'>
+  <a href="https://twitter.com/__DavidPortillo"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/david-portillo-bb000532/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:david.portillo92@gmail.com?subject=Hi%20David"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 <br />
 
-[linkedin]: https://www.linkedin.com/in/david-portillo-bb000532/
 [intellij]: https://www.jetbrains.com/idea/
 [vscode]: https://code.visualstudio.com/
 [javascript]: https://www.javascript.com/
