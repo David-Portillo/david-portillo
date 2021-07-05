@@ -1,3 +1,6 @@
+<div>
+  <img src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/calvin-and-hobbes.svg" alt="banner" />
+</div>
 ### Hi there 👋
  
 I'm David and I'm a full stack developer based in Whitby, ON, Canada.
