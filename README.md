@@ -16,22 +16,17 @@ I'm David and I'm a full stack developer based in Whitby, ON, Canada.
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/typescript.svg" />][typescript]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/react.svg" />][react]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/graphql.svg" />][graphql]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/java.svg" />][java]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/spring.svg" />][spring]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/vs-code.svg" />][vscode]
 
-- Java
 - SQL
-- GraphQL
 - MongoDB
-- React.js
-- Next.js
-- Nest.js
 - SpringBoot
 - React applications with Next.js
 - Node services with Nest.js
 - Java 8 with SpringBoot
 - Azure SQL
-- GraphQL
-- MongoDB
 
 ## Working With Me
 
@@ -49,3 +44,5 @@ I'm David and I'm a full stack developer based in Whitby, ON, Canada.
 [typescript]: https://www.typescriptlang.org/
 [react]: https://reactjs.org/
 [graphql]: https://graphql.org/
+[java]: https://www.java.com/en/
+[spring]: https://spring.io/projects/spring-boot
