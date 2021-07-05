@@ -3,7 +3,7 @@
 </div>
 
 ## Hi there 👋
- 
+
 I'm David and I'm a full stack developer based in Whitby, ON, Canada.
 
 - 🌱 Currently, I'm learning everything I can get my hands on 🤣
@@ -12,10 +12,11 @@ I'm David and I'm a full stack developer based in Whitby, ON, Canada.
 
 ## My Development Toolbox 🧰
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/javascript.svg" />][JavaScript]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/typescript.svg" />][TypeScript]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/vs-code.svg" />][VSCode]
-
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/javascript.svg" />][javascript]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/typescript.svg" />][typescript]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/react.svg" />][react]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/graphql.svg" />][graphql]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/vs-code.svg" />][vscode]
 
 - Java
 - SQL
@@ -32,8 +33,6 @@ I'm David and I'm a full stack developer based in Whitby, ON, Canada.
 - GraphQL
 - MongoDB
 
-
-
 ## Working With Me
 
 ## Fun Facts
@@ -45,6 +44,8 @@ I'm David and I'm a full stack developer based in Whitby, ON, Canada.
 <br />
 
 [linkedin]: https://www.linkedin.com/in/david-portillo-bb000532/
-[VSCode]: https://code.visualstudio.com/
-[JavaScript]: https://www.javascript.com/
-[TypeScript]: https://www.typescriptlang.org/
+[vscode]: https://code.visualstudio.com/
+[javascript]: https://www.javascript.com/
+[typescript]: https://www.typescriptlang.org/
+[react]: https://reactjs.org/
+[graphql]: https://graphql.org/
