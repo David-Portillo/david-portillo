@@ -6,20 +6,17 @@
  
 I'm David and I'm a full stack developer based in Whitby, ON, Canada.
 
-
 - 🌱 Currently, I'm learning everything I can get my hands on 🤣
 - I'm 💯 bilingual, English and Spanish
 - I enjoy watching 📺, listening to 🎵 and reading 📕
 
 ## My Development Toolbox 🧰
 
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/javascript.svg" />][JavaScript]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/typescript.svg" />][TypeScript]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/vs-code.svg" />][VSCode]
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/javascript.svg" />][JavaScript]
 
-
-
-- JavaScript
 - Java
 - SQL
 - GraphQL
@@ -50,3 +47,4 @@ I'm David and I'm a full stack developer based in Whitby, ON, Canada.
 [linkedin]: https://www.linkedin.com/in/david-portillo-bb000532/
 [VSCode]: https://code.visualstudio.com/
 [JavaScript]: https://www.javascript.com/
+[TypeScript]: https://www.typescriptlang.org/
