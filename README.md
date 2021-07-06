@@ -2,8 +2,6 @@
   <img src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/calvin-and-hobbes.svg" alt="banner" />
 </div>
 
-<hr />
-
 <h2 align='center'>Hi there 👋</h2>
 
 I'm David and I'm a full stack developer based in Whitby, ON, Canada.
@@ -20,10 +18,10 @@ I'm David and I'm a full stack developer based in Whitby, ON, Canada.
   </p>
 </div>
 
-## My Development Toolbox 🧰
+<h2>My Development Toolbox 🧰</h2>
 
 <div>
-  <a href="https://twitter.com/__DavidPortillo">
+  <a href="https://www.javascript.com/" target="_blank">
     <img align="left" alt="JavasScript" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/javascript.svg" />
   </a>
   <a href="https://twitter.com/__DavidPortillo">
@@ -69,10 +67,9 @@ I'm David and I'm a full stack developer based in Whitby, ON, Canada.
 
 ### Working With Me
 
-
 ### Spotify
 
-<p align="right">
+<p align='left'>
   <a href="https://open.spotify.com/user/david.portillo92?si=03d93be42b82427a"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
   <a href="https://steamcommunity.com/id/_SabreWulf/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" /></a>
 </p>
