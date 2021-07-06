@@ -11,9 +11,13 @@ I'm David and I'm a full stack developer based in Whitby, ON, Canada.
 - I enjoy watching 📺, playing games 🎮, listening to 🎵, reading 📕 and driving 🚗
 
 <div align='left'>
-  <p>I usually read articles from...</p>
-  <a href="https://dev.to"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>
-  <a href="https://medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+  I usually read articles from...&nbsp;&nbsp;
+  <a href="https://dev.to">
+    <img align='left' src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />
+  </a>
+  <a align='left' href="https://medium.com/">
+    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
 </div>
 
 <h2>My Development Toolbox 🧰</h2>
