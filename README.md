@@ -36,7 +36,7 @@ I'm David and I'm a full stack developer based in Whitby, ON, Canada.
 ### Working With Me
 
 <div align='center'>
-  <h4>Connect with me</h4>
+  <h3>Connect with me</h3>
   <p align='center'>
   <a href="https://twitter.com/__DavidPortillo"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/david-portillo-bb000532/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
