@@ -2,7 +2,9 @@
   <img src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/calvin-and-hobbes.svg" alt="banner" />
 </div>
 
-<h2 align='center'>Hi there 👋</h2>
+
+<h2 align='center'>Hi there  <img src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/animated-mini.gif" alt="smiley-happy"/>
+    <img></h2>
 
 <p style="font-size:50px">hello</p>
 
@@ -10,10 +12,7 @@ I'm David and I'm a full stack developer based in Whitby, ON, Canada.
 
 <div align='left'>
   <ul>
-    <li>Currently, I'm learning everything 
-    <img src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/animated-mini.gif" alt="smiley-happy"/>
-    <img>
-    </li>
+    <li>Currently, I'm learning everything </li>
     <li>I'm 💯 bilingual, English and Spanish</li>
     <li>I clear my mind by going for a drive 🚗</li>
     <li>
