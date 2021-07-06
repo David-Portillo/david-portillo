@@ -6,7 +6,7 @@
 
 <p style="font-size:50px">hello</p>
 
-I'm David and I'm a full stack developer based in Whitby, ON, Canada.
+I'm David and I'm a full stack developer based in <address>Whitby, ON, Canada.</address>
 
 <div align='left'>
   <ul>
