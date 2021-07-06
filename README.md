@@ -20,24 +20,25 @@ I'm David and I'm a full stack developer based in Whitby, ON, Canada.
 
 <h2>My Development Toolbox 🧰</h2>
 
+<div align="left">
+  <a href="https://www.javascript.com/">
+    <img  alt="JavasScript" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/javascript.svg" />
+  </a>
+  <a href="https://twitter.com/__DavidPortillo">
+    <img  alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/javascript.svg" />
+  </a>
+  <a href="https://twitter.com/__DavidPortillo">
+    <img  alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/typescript.svg" />
+  </a>
+  <a href="https://twitter.com/__DavidPortillo">
+    <img  alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/react.svg" />
+  </a>
+  <a href="https://twitter.com/__DavidPortillo">
+    <img  alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/nodejs.svg" />
+  </a>
+</div>
 <div>
-  <a href="https://www.javascript.com/" target="_blank">
-    <img align="left" alt="JavasScript" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/javascript.svg" />
-  </a>
-  <a href="https://twitter.com/__DavidPortillo">
-    <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/javascript.svg" />
-  </a>
-  <a href="https://twitter.com/__DavidPortillo">
-    <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/typescript.svg" />
-  </a>
-  <a href="https://twitter.com/__DavidPortillo">
-    <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/react.svg" />
-  </a>
-  <a href="https://twitter.com/__DavidPortillo">
-    <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/nodejs.svg" />
-  </a>
-  <br />
-  <a href="https://twitter.com/__DavidPortillo">
+<a href="https://twitter.com/__DavidPortillo">
     <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/graphql.svg" />
   </a>
   <a href="https://twitter.com/__DavidPortillo">
