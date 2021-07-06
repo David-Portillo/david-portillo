@@ -18,6 +18,10 @@ I'm David and I'm a full stack developer based in Whitby, ON, Canada.
 
 ## My Development Toolbox 🧰
 
+<div>
+  <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/javascript.svg" />
+</div>
+
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/javascript.svg" />][javascript]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/typescript.svg" />][typescript]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/react.svg" />][react]
