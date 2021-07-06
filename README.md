@@ -2,11 +2,19 @@
   <img src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/calvin-and-hobbes.svg" alt="banner" />
 </div>
 
+<head>
+      <title>Meta Tags Example</title>
+      <meta name = "keywords" content = "HTML, Meta Tags, Metadata" />
+      <meta name = "description" content = "Learning about Meta Tags." />
+      <meta name = "revised" content = "Tutorialspoint, 3/7/2014" />
+      <meta http-equiv = "refresh" content = "5" />
+   </head>
+
 <h2 align='center'>Hi there 👋</h2>
 
 <p style="font-size:50px">hello</p>
 
-I'm David and I'm a full stack developer based in <address>Whitby, ON, Canada.</address>
+I'm David and I'm a full stack developer based in Whitby, ON, Canada.
 
 <div align='left'>
   <ul>
