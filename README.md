@@ -10,7 +10,8 @@ I'm David and I'm a full stack developer based in Whitby, ON, Canada.
   <ul>
     <li>🌱 Currently, I'm learning everything I can get my hands on 🤣</li>
     <li>I'm 💯 bilingual, English and Spanish</li>
-    <li>reading 📕 and driving 🚗</li>
+    <li>I spare some time to read📕</li>
+    <li>and driving 🚗</li>
     <li>
       I relax by listening to 🎵 on
         <a href="https://open.spotify.com/user/david.portillo92?si=03d93be42b82427a">
@@ -88,14 +89,6 @@ I'm David and I'm a full stack developer based in Whitby, ON, Canada.
 
 <br />
 <h2>Working With Me</h2>
-
-<br />
-<h2>Spotify</h2>
-
-<p align='left'>
-  <a href="https://open.spotify.com/user/david.portillo92?si=03d93be42b82427a"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
-  <a href="https://steamcommunity.com/id/_SabreWulf/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" /></a>
-</p>
 
 <div align='center'>
   <h3>Connect with me</h3>
