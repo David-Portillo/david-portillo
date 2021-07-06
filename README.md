@@ -12,6 +12,12 @@ I'm David and I'm a full stack developer based in Whitby, ON, Canada.
     <li>I'm 💯 bilingual, English and Spanish</li>
     <li>I enjoy watching 📺, playing games 🎮, listening to 🎵, reading 📕 and driving 🚗</li>
     <li>
+      I enjoy watching the office on
+      <a href="https://dev.to">
+        <img valign='middle' src="https://img.shields.io/badge/Netflix-%230A0A0A.svg?&style=for-the-badge&logo=netflix&logoColor=red" />
+      </a>
+    </li>
+    <li>
       I usually read
       <a href="https://dev.to">
         <img valign='middle' src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />
