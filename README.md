@@ -70,7 +70,7 @@ I'm David and I'm a full stack developer based in Whitby, ON, Canada.
 
 <p align="right">
   <a href="https://open.spotify.com/user/david.portillo92?si=03d93be42b82427a"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
-  <a href="https://steamcommunity.com/id/hammerhand92/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" /></a>
+  <a href="https://steamcommunity.com/id/_SabreWulf/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" /></a>
 </p>
 
 <div align='center'>
