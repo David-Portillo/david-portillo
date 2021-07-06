@@ -34,7 +34,7 @@ I'm David and I'm a full stack developer based in Whitby, ON, Canada.
       </a>
     </li>
     <li>
-      I enjoy watching The Office on
+      I usually watch The Office on
       <a href="https://www.netflix.com">
         <img valign='middle' src="https://img.shields.io/badge/Netflix-%230A0A0A.svg?&style=for-the-badge&logo=netflix&logoColor=red" />
       </a>
