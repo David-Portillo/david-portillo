@@ -16,7 +16,7 @@ I'm David and I'm a full stack developer based in Whitby, ON, Canada.
     <img valign='middle' src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />
   </a>
   <a href="https://medium.com/">
-    <img valign='baseline' src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+    <img valign='bottom' src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </div>
 
