@@ -21,11 +21,8 @@ I'm David and I'm a full stack developer based in Whitby, ON, Canada.
 <h2>My Development Toolbox 🧰</h2>
 
 <div>
-  <a href="https://www.javascript.com/" target="_blank">
+  <a href="https://www.javascript.com/">
     <img align="left" alt="JavasScript" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/javascript.svg" />
-  </a>
-  <a href="https://twitter.com/__DavidPortillo">
-    <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/javascript.svg" />
   </a>
   <a href="https://twitter.com/__DavidPortillo">
     <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/typescript.svg" />
@@ -42,7 +39,6 @@ I'm David and I'm a full stack developer based in Whitby, ON, Canada.
   <a href="https://twitter.com/__DavidPortillo">
     <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/mongodb.svg" />
   </a>
-  
 </div>
 <br />
 <br />
@@ -67,11 +63,9 @@ I'm David and I'm a full stack developer based in Whitby, ON, Canada.
  </a>
 </div>
 
-<br />
+<h2>Working With Me</h2>
 
-### Working With Me
-
-### Spotify
+<h2>Spotify</h2>
 
 <p align='left'>
   <a href="https://open.spotify.com/user/david.portillo92?si=03d93be42b82427a"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
