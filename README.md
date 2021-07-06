@@ -10,6 +10,7 @@ I'm David and I'm a full stack developer based in Whitby, ON, Canada.
   <ul>
     <li>Currently, I'm learning everything 🤣</li>
     <li>I'm 💯 bilingual, English and Spanish</li>
+    <li>I clear my mind by going for a drive 🚗</li>
     <li>
       I usually read
       <a href="https://dev.to">
@@ -20,7 +21,6 @@ I'm David and I'm a full stack developer based in Whitby, ON, Canada.
         <img valign='bottom' src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
       </a>
     </li>
-    <li>I clear my mind by going for a drive 🚗</li>
     <li>
       I relax by listening to 🎵 on
         <a href="https://open.spotify.com/user/david.portillo92?si=03d93be42b82427a">
