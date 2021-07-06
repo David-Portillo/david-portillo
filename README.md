@@ -11,7 +11,7 @@ I'm David and I'm a full stack developer based in Whitby, ON, Canada.
     <li>Currently, I'm learning everything I can get my hands on 🤣</li>
     <li>I'm 💯 bilingual, English and Spanish</li>
     <li>
-      I spare some time reading 📕 and
+      I spend time reading 📕 and
       <a href="https://dev.to">
         <img valign='middle' src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />
       </a>
