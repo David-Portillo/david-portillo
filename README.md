@@ -3,9 +3,9 @@
 </div>
  
 <br />
-<div align='left' valign='middle'>
+<div align='left'>
   <img src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/animated-mini.gif" alt="smiley-happy"/>
-  <span valign='middle'>I'm David and I'm a full stack developer based in Whitby, ON, Canada.</span>
+  <span valign='top'>I'm David and I'm a full stack developer based in Whitby, ON, Canada.</span>
 </div>
 <br />
 
