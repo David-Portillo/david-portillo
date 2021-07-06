@@ -13,7 +13,7 @@ I'm David and I'm a full stack developer based in Whitby, ON, Canada.
     <li>I enjoy watching 📺, playing games 🎮, listening to 🎵, reading 📕 and driving 🚗</li>
     <li>
       I have fun playing games on
-       <a valign='middle' href="https://steamcommunity.com/id/_SabreWulf/">
+       <a valign='bottom' href="https://steamcommunity.com/id/_SabreWulf/">
         <img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" />
       </a>
     </li>
