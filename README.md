@@ -5,7 +5,7 @@
 <br />
 <div align='left' valign='middle'>
   <img src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/animated-mini.gif" alt="smiley-happy"/>
-  <p>I'm David and I'm a full stack developer based in Whitby, ON, Canada.</p>
+  <span>I'm David and I'm a full stack developer based in Whitby, ON, Canada.</span>
 </div>
 <br />
 
