@@ -19,25 +19,59 @@ I'm David and I'm a full stack developer based in Whitby, ON, Canada.
 ## My Development Toolbox 🧰
 
 <div>
-  <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/javascript.svg" />
+  <a href="https://twitter.com/__DavidPortillo">
+    <img align="left" alt="JavasScript" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/javascript.svg" />
+  </a>
+  <a href="https://twitter.com/__DavidPortillo">
+    <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/javascript.svg" />
+  </a>
+  <a href="https://twitter.com/__DavidPortillo">
+    <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/typescript.svg" />
+  </a>
+  <a href="https://twitter.com/__DavidPortillo">
+    <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/react.svg" />
+  </a>
+  <a href="https://twitter.com/__DavidPortillo">
+    <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/nodejs.svg" />
+  </a>
+  <br />
+  <a href="https://twitter.com/__DavidPortillo">
+    <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/graphql.svg" />
+  </a>
+  <a href="https://twitter.com/__DavidPortillo">
+    <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/mongodb.svg" />
+  </a>
+  <a href="https://twitter.com/__DavidPortillo">
+   <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/java.svg" />
+  </a>
+  <a href="https://twitter.com/__DavidPortillo">
+    <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/spring.svg" />
+  </a>
+  <a href="https://twitter.com/__DavidPortillo">
+    <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/microsoft-azure.svg" />
+  </a>
+  <a href="https://twitter.com/__DavidPortillo">
+   <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/git.svg" />
+  </a>
+  <a href="https://twitter.com/__DavidPortillo">
+   <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/vs-code.svg" />
+  </a>
+ <a href="https://twitter.com/__DavidPortillo">
+  <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/intellij.svg" />
+ </a>
 </div>
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/javascript.svg" />][javascript]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/typescript.svg" />][typescript]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/react.svg" />][react]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/nodejs.svg" />][nodejs]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/graphql.svg" />][graphql]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/mongodb.svg" />][mongodb]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/java.svg" />][java]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/spring.svg" />][spring]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/microsoft-azure.svg" />][microsoft-azure]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/git.svg" />][git]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/vs-code.svg" />][vscode]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/intellij.svg" />][intellij]
 
 <br />
 
 ### Working With Me
+
+
+### Spotify
+
+<p align="right">
+  <a href="https://open.spotify.com/user/david.portillo92?si=03d93be42b82427a"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
+  <a href="https://steamcommunity.com/id/hammerhand92/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" /></a>
+</p>
 
 <div align='center'>
   <h3>Connect with me</h3>
@@ -47,7 +81,6 @@ I'm David and I'm a full stack developer based in Whitby, ON, Canada.
   <a href="mailto:david.portillo92@gmail.com?subject=Hi%20David"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 </div>
-
 
 <br />
 
