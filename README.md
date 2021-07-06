@@ -49,7 +49,7 @@
 
 <div>
   <a href="https://www.javascript.com/">
-    <img align="left" alt="JavasScript" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/javascript.svg" />
+    <img align="left" alt="JavasScript" width="26px" src="https://img.shields.io/badge/JS-%230A0A0A.svg?&style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   </a>
   <a href="https://www.typescriptlang.org/">
     <img align="left" alt="TypeScript" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/typescript.svg" />
