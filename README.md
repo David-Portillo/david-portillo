@@ -49,7 +49,7 @@
 
 <div>
   <a href="https://www.javascript.com/">
-    <img align="left" alt="JavasScript" src="https://img.shields.io/badge/JS-%230A0A0A.svg?&style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+    <img align="left" alt="JavasScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
   </a>
   <a href="https://www.typescriptlang.org/">
     <img align="left" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
