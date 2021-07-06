@@ -2,7 +2,9 @@
   <img src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/calvin-and-hobbes.svg" alt="banner" />
 </div>
 
-## Hi there 👋
+<hr />
+
+<h2 align='center'>Hi there 👋</h2>
 
 I'm David and I'm a full stack developer based in Whitby, ON, Canada.
 
