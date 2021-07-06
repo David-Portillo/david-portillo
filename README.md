@@ -12,8 +12,14 @@ I'm David and I'm a full stack developer based in Whitby, ON, Canada.
     <li>I'm 💯 bilingual, English and Spanish</li>
     <li>I enjoy watching 📺, playing games 🎮, listening to 🎵, reading 📕 and driving 🚗</li>
     <li>
-      I enjoy watching the office on
-      <a href="https://dev.to">
+      I have fun playing games on
+       <a valign='middle' href="https://steamcommunity.com/id/_SabreWulf/">
+        <img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" />
+      </a>
+    </li>
+    <li>
+      I enjoy watching The Office on
+      <a href="https://www.netflix.com">
         <img valign='middle' src="https://img.shields.io/badge/Netflix-%230A0A0A.svg?&style=for-the-badge&logo=netflix&logoColor=red" />
       </a>
     </li>
