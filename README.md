@@ -10,12 +10,10 @@ I'm David and I'm a full stack developer based in Whitby, ON, Canada.
 - I'm 💯 bilingual, English and Spanish
 - I enjoy watching 📺, playing games 🎮, listening to 🎵, reading 📕 and driving 🚗
 
-<div>
-<p align='left'>
+<div align='left'>
   <h3>I usually read articles from...</h3>
     <a href="https://dev.to"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>
     <a href="https://medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-  </p>
 </div>
 
 <h2>My Development Toolbox 🧰</h2>
@@ -63,8 +61,10 @@ I'm David and I'm a full stack developer based in Whitby, ON, Canada.
  </a>
 </div>
 
+<br />
 <h2>Working With Me</h2>
 
+<br />
 <h2>Spotify</h2>
 
 <p align='left'>
