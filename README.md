@@ -11,7 +11,7 @@ I'm David and I'm a full stack developer based in Whitby, ON, Canada.
 - I enjoy watching 📺, playing games 🎮, listening to 🎵, reading 📕 and driving 🚗
 
 <div align='left'>
-  I usually read articles from...&nbsp;&nbsp;
+  <div>I usually read articles from...</div>&nbsp;&nbsp;
   <a href="https://dev.to">
     <img align='left' src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />
   </a>
