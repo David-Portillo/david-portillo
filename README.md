@@ -21,7 +21,7 @@ I'm David and I'm a full stack developer based in Whitby, ON, Canada.
 <h2>My Development Toolbox 🧰</h2>
 
 <div>
-  <a href="https://www.javascript.com/">
+  <a href="https://www.javascript.com/" target="_blank">
     <img align="left" alt="JavasScript" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/javascript.svg" />
   </a>
   <a href="https://twitter.com/__DavidPortillo">
