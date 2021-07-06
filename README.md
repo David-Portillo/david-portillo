@@ -52,7 +52,7 @@
     <img align="left" alt="JavasScript" src="https://img.shields.io/badge/JS-%230A0A0A.svg?&style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   </a>
   <a href="https://www.typescriptlang.org/">
-    <img align="left" alt="TypeScript" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/typescript.svg" />
+    <img align="left" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
   </a>
   <a href="https://reactjs.org/">
     <img align="left" alt="React.js" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/react.svg" />
