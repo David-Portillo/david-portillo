@@ -2,12 +2,12 @@
   <img src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/calvin-and-hobbes.svg" alt="banner" />
 </div>
  
-<div align='left'>
+<br />
+<div align='left' valign='middle'>
   <img src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/animated-mini.gif" alt="smiley-happy"/>
-  I'm David and I'm a full stack developer based in Whitby, ON, Canada.
+  <p>I'm David and I'm a full stack developer based in Whitby, ON, Canada.</p>
 </div>
-
-
+<br />
 
 <div align='left'>
   <ul>
