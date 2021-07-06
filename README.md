@@ -11,7 +11,7 @@ I'm David and I'm a full stack developer based in Whitby, ON, Canada.
 <div align='left'>
   <ul>
     <li>Currently, I'm learning everything 
-    <img src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/smileys-happy.gif" alt="smiley-happy"/>
+    <img src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/animated-mini.gif" alt="smiley-happy"/>
     <img>
     </li>
     <li>I'm 💯 bilingual, English and Spanish</li>
