@@ -38,7 +38,6 @@ I'm David and I'm a full stack developer based in Whitby, ON, Canada.
   </a>
   <br />
 </div>
-<br />
 <div align="left">
   <a href="https://twitter.com/__DavidPortillo">
     <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/graphql.svg" />
