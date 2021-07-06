@@ -8,7 +8,7 @@ I'm David and I'm a full stack developer based in Whitby, ON, Canada.
 
 <div align='left'>
   <ul>
-    <li>Currently, I'm learning everything I can get my hands on 🤣</li>
+    <li>Currently, I'm learning everything 🤣</li>
     <li>I'm 💯 bilingual, English and Spanish</li>
     <li>
       I usually read
