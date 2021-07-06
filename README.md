@@ -10,7 +10,13 @@ I'm David and I'm a full stack developer based in Whitby, ON, Canada.
   <ul>
     <li>🌱 Currently, I'm learning everything I can get my hands on 🤣</li>
     <li>I'm 💯 bilingual, English and Spanish</li>
-    <li>I enjoy watching 📺, playing games 🎮, listening to 🎵, reading 📕 and driving 🚗</li>
+    <li>reading 📕 and driving 🚗</li>
+    <li>
+      I relax by listening to 🎵 on
+        <a href="https://open.spotify.com/user/david.portillo92?si=03d93be42b82427a">
+          <img valign='middle' src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />
+        </a>
+    </li>
     <li>
       I have fun playing games on
        <a href="https://steamcommunity.com/id/_SabreWulf/">
