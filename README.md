@@ -55,38 +55,35 @@
     <img align="left" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
   </a>
   <a href="https://reactjs.org/">
-    <img align="left" alt="React.js" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/react.svg" />
+    <img align="left" alt="React.js" src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
   </a>
   <a href="https://nodejs.org/en/">
-    <img align="left" alt="Node.js" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/nodejs.svg" />
+    <img align="left" alt="Node.js" src="https://img.shields.io/badge/Node-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
   </a>
   <a href="https://graphql.org/">
-    <img align="left" alt="GraphQL" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/graphql.svg" />
+    <img align="left" alt="GraphQL" src="https://img.shields.io/badge/GraphQL-%23E434AA.svg?&style=for-the-badge&logo=graphql&logoColor=white" />
   </a>
   <a href="https://www.mongodb.com/">
-    <img align="left" alt="MongoDB" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/mongodb.svg" />
+    <img align="left" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
   </a>
 </div>
 <br />
 <br />
 <div align="left">
   <a href="https://www.java.com/en/">
-   <img align="left" alt="Java" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/java.svg" />
+   <img align="left" alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
   </a>
   <a href="https://spring.io/projects/spring-boot">
-    <img align="left" alt="SpringBoot" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/spring.svg" />
-  </a>
-  <a href="https://azure.microsoft.com/en-ca/">
-    <img align="left" alt="Microsoft Azure" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/microsoft-azure.svg" />
+    <img align="left" alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-%236DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white" />
   </a>
   <a href="https://git-scm.com/">
-   <img align="left" alt="Git" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/git.svg" />
+   <img align="left" alt="Git" src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
   </a>
   <a href="https://code.visualstudio.com/">
-   <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/vs-code.svg" />
+   <img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   </a>
  <a href="https://www.jetbrains.com/idea/">
-  <img align="left" alt="Intellij" width="26px" src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/intellij.svg" />
+  <img align="left" alt="Intellij" src="https://img.shields.io/badge/intellij-%23000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white" />
  </a>
 </div>
 
