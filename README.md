@@ -66,27 +66,23 @@
   <a href="https://www.mongodb.com/">
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
   </a>
-</div>
-<br />
-<br />
-<div align="left">
   <a href="https://www.java.com/en/">
-   <img align="left" alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
+   <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
   </a>
   <a href="https://spring.io/projects/spring-boot">
-    <img align="left" alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-%236DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white" />
+    <img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-%236DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white" />
   </a>
   <a href="https://git-scm.com/">
-   <img align="left" alt="Git" src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
+   <img alt="Git" src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
   </a>
   <a href="https://code.visualstudio.com/">
-   <img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+   <img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   </a>
   <a href="https://www.microsoft.com/en-ca/sql-server/sql-server-2019">
-   <img align="left" alt="Microsoft SQL Server" src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?&style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+   <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?&style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   </a>
  <a href="https://www.jetbrains.com/idea/">
-  <img align="left" alt="Intellij" src="https://img.shields.io/badge/intellij-%23000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img alt="Intellij" src="https://img.shields.io/badge/intellij-%23000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white" />
  </a>
 </div>
 
