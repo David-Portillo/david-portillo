@@ -12,7 +12,7 @@
 <div align='left'>
   <ul>
     <li>Currently, I'm learning everything 🤣</li>
-    <li>I'm 💯 bilingual, English and Spanish</li>
+    <li>I speak English and Spanish</li>
     <li>I clear my mind by going for a drive 🚗</li>
     <li>
       I often read
