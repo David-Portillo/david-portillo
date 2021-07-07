@@ -12,7 +12,7 @@
 <div>
   <ul>
     <li>I speak English and Spanish</li>
-    <li>I go for drives in my 🚗  to clear my mind</li>
+    <li>I go for drives in my 🚗 &nbsp;to clear my mind</li>
     <li>
       I often read
       <a href="https://dev.to">
@@ -105,7 +105,6 @@
 
 <div align='center'>
   <h3>Connect with me</h3>
-  
   <a href="https://twitter.com/__DavidPortillo"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/david-portillo-bb000532/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:david.portillo92@gmail.com?subject=Hi%20David"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
