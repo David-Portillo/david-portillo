@@ -2,7 +2,7 @@
   <img src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/calvin-and-hobbes.svg" alt="banner" />
 </div>
 
-<div align='center'>
+<div align='right'>
   <a href="#">
     <img src="https://visitor-badge.glitch.me/badge?page_id=David-Portillo.david-portillo??style=for-the-badge&logo=appveyor" alt='visitor'>
   </a>
