@@ -13,7 +13,7 @@
   <ul>
     <li>Currently, I'm learning everything 🤣</li>
     <li>I speak English and Spanish</li>
-    <li>I clear my mind by going for a drive 🚗</li>
+    <li>I go for drives in my 🚗 to clear my mind</li>
     <li>
       I often read
       <a href="https://dev.to">
