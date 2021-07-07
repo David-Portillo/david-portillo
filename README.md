@@ -108,8 +108,11 @@
  <a href="https://nextjs.org/">
     <img alt="Next JS" src="https://img.shields.io/badge/NextJs-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" />
  </a>
- <a href="https://flutter.dev//">
+ <a href="https://flutter.dev/">
     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" />
+ </a>
+ <a href="https://trailhead.salesforce.com/en/">
+    <img alt="SalesForce" src="https://img.shields.io/badge/salesforce-%2300A1E0.svg?&style=for-the-badge&logo=salesforce&logoColor=white" />
  </a>
 </div>
 
