@@ -116,7 +116,7 @@
  </a>
 </div>
 
-<h2>Communication Tools</h2>
+<h2>Communication Tools 🔧</h2>
 
 <div>
    <a href="https://trailhead.salesforce.com/en/">
