@@ -49,22 +49,22 @@
 
 <div>
   <a href="https://www.javascript.com/">
-    <img align="left" alt="JavasScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
+    <img alt="JavasScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
   </a>
   <a href="https://www.typescriptlang.org/">
-    <img align="left" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
   </a>
   <a href="https://reactjs.org/">
-    <img align="left" alt="React.js" src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
+    <img alt="React.js" src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
   </a>
   <a href="https://nodejs.org/en/">
-    <img align="left" alt="Node.js" src="https://img.shields.io/badge/Node-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+    <img alt="Node.js" src="https://img.shields.io/badge/Node-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
   </a>
   <a href="https://graphql.org/">
-    <img align="left" alt="GraphQL" src="https://img.shields.io/badge/GraphQL-%23E434AA.svg?&style=for-the-badge&logo=graphql&logoColor=white" />
+    <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-%23E434AA.svg?&style=for-the-badge&logo=graphql&logoColor=white" />
   </a>
   <a href="https://www.mongodb.com/">
-    <img align="left" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
   </a>
 </div>
 <br />
