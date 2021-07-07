@@ -85,7 +85,7 @@
  </a>
 </div>
 
-<h2>Currently Learning In My Spare Time 💡</h2>
+<h2>Currently Learning💡</h2>
 
 <div>
   <a href="https://nestjs.com/">
