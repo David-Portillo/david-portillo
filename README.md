@@ -82,6 +82,9 @@
   <a href="https://code.visualstudio.com/">
    <img align="left" alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   </a>
+  <a href="https://www.microsoft.com/en-ca/sql-server/sql-server-2019">
+   <img align="left" alt="Microsoft SQL Server" src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?&style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  </a>
  <a href="https://www.jetbrains.com/idea/">
   <img align="left" alt="Intellij" src="https://img.shields.io/badge/intellij-%23000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white" />
  </a>
