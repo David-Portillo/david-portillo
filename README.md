@@ -116,8 +116,18 @@
  </a>
 </div>
 
+<h2>Communication Tools</h2>
 
-<br />
+<div>
+   <a href="https://trailhead.salesforce.com/en/">
+    <img alt="SalesForce" src="https://img.shields.io/badge/Slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" />
+  </a>
+   <a href="https://trailhead.salesforce.com/en/">
+    <img alt="SalesForce" src="https://img.shields.io/badge/Teams-%236264A7.svg?&style=for-the-badge&logo=microsoft-teams&logoColor=white" />
+  </a>
+</div>
+
+
 <h2>Working With Me</h2>
 
 <div align='center'>
