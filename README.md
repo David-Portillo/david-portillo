@@ -7,7 +7,7 @@
     <img src="https://visitor-badge.glitch.me/badge?page_id=David-Portillo.david-portillo??style=for-the-badge&logo=appveyor" alt='visitor'>
   </a>
 </div>
- 
+<br />
 <div>
   Hi there, I'm David and I'm a full stack developer based in Whitby, ON, Canada
   <img valign='middle' src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/animated-computer.gif" alt="smiley-happy"/>
