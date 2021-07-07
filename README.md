@@ -37,7 +37,7 @@
       </a>
     </li>
     <li>
-      I normally watch The Office on
+      I often watch The Office on
       <a href="https://www.netflix.com">
         <img valign='middle' src="https://img.shields.io/badge/Netflix-%230A0A0A.svg?&style=for-the-badge&logo=netflix&logoColor=red" />
       </a>
