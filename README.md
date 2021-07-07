@@ -119,10 +119,10 @@
 <h2>Communication Tools 🔧</h2>
 
 <div>
-   <a href="https://trailhead.salesforce.com/en/">
+   <a href="https://slack.com/intl/en-ca/">
     <img alt="SalesForce" src="https://img.shields.io/badge/Slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white" />
   </a>
-   <a href="https://trailhead.salesforce.com/en/">
+   <a href="https://www.microsoft.com/en-ca/microsoft-teams/group-chat-software">
     <img alt="SalesForce" src="https://img.shields.io/badge/Teams-%236264A7.svg?&style=for-the-badge&logo=microsoft-teams&logoColor=white" />
   </a>
 </div>
