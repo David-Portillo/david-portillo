@@ -3,15 +3,14 @@
 </div>
  
 <br />
-<div align='left'>
-  Hi there, I'm David and I'm a full stack developer based in Whitby, ON, Canada.
+<div>
+  Hi there, I'm David and I'm a full stack developer based in Whitby, ON, 🇨🇦
   <img valign='middle' src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/animated-computer.gif" alt="smiley-happy"/>
 </div>
 <br />
 
-<div align='left'>
+<div>
   <ul>
-    <li>Currently, I'm learning everything 🤣</li>
     <li>I speak English and Spanish</li>
     <li>I go for drives in my 🚗 to clear my mind</li>
     <li>
@@ -85,6 +84,21 @@
   <img alt="Intellij" src="https://img.shields.io/badge/intellij-%23000000.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white" />
  </a>
 </div>
+
+<h2>Currently Learning In My Spare Time 💡</h2>
+
+<div>
+  <a href="https://nestjs.com/">
+    <img alt="Nest JS" src="https://img.shields.io/badge/NestJs-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />
+ </a>
+ <a href="https://nextjs.org/">
+    <img alt="Next JS" src="https://img.shields.io/badge/NextJs-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" />
+ </a>
+ <a href="https://flutter.dev//">
+    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" />
+ </a>
+</div>
+
 
 <br />
 <h2>Working With Me</h2>
