@@ -12,7 +12,7 @@
 <div>
   <ul>
     <li>I speak English and Spanish</li>
-    <li>I go for drives in my 🚗 &nbsp;to clear my mind</li>
+    <li>I go for drives in my&nbsp;🚗&nbsp;to clear my mind</li>
     <li>
       I often read
       <a href="https://dev.to">
