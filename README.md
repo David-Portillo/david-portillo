@@ -9,7 +9,7 @@
 </div>
 <br />
 <div>
-  Hi there, I'm David and I'm a full stack developer based in Whitby, ON, Canada
+  Hi, I'm David and I'm a full stack developer based in Whitby, ON, Canada
   <img valign='middle' src="https://github.com/HammerHand92/hammerhand92/blob/master/assets/animated-computer.gif" alt="smiley-happy"/>
 </div>
 <br />
