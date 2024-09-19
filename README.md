@@ -4,7 +4,7 @@
 
 <div align='right'>
   <a href="#">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=David-Portillo.david-portillo??style=for-the-badge&logo=appveyor" alt='visitor'>
+    <img src="https://visitor-badge.glitch.me/badge?page_id=david-portillo&left_color=green&right_color=red" alt='visitor'>
   </a>
 </div>
 <br />
